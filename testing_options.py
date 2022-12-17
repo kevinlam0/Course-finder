@@ -2,6 +2,9 @@
 
 import course_finder
 
+# ---- URL for more departments, instructors, and classes ---- 
+"http://arcanum.cs.virginia.edu/cs1110/files/louslist/"
+
 # ---- 'Department' Argument Options ----
 #
 #  CS
